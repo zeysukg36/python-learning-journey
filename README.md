@@ -39,8 +39,8 @@ and includes real-world examples rather than textbook exercises.
 ## 🛠️ Tools & Environment
 
 - Python 3.x
-- Jupyter Notebook
-- No external libraries required (pure Python)
+- - VS Code & Jupyter Extension
+- - Libraries: NumPy (Ongoing)
 
 ---
 
